@@ -2,7 +2,7 @@
 # NIM : 2020230005
 
 import numpy as np
-import pandas as pd
+import streamlit as st
 import pickle
 
 age = float(input("Masukkan usia: "))
